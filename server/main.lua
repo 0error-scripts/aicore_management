@@ -1,4 +1,4 @@
-lib.versionCheck('0error-scripts/aicore_management')
+lib.versionCheck('aicore-fivem/aicore_management')
 if not lib.checkDependency('aicore', '1.18.0', true) then error() return end
 if not lib.checkDependency('ox_lib', '3.13.0', true) then error() return end
 

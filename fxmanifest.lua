@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'aicore_management'
-repository 'https://github.com/0error-scripts/aicore_management'
+repository 'https://github.com/aicore-fivem/aicore_management'
 version '1.4.0'
 
 ox_lib 'locale'

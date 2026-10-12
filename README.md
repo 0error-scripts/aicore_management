@@ -1,4 +1,4 @@
-![aicore_management](https://github.com/0error-scripts/aicore_management/assets/22198949/97380b5b-3954-4aa5-8b67-d73ffc99237f)
+![aicore_management](https://github.com/aicore-fivem/aicore_management/assets/22198949/97380b5b-3954-4aa5-8b67-d73ffc99237f)
 
 # aicore_management
 Business and gang management menu for Aicore
